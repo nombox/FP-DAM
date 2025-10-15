@@ -1,1 +1,1 @@
-En esta carpeta estarán todos los ejercicios de los modelos entidad/relacion
+En esta carpeta estarán todos los tipos de ejercicios que haga en la unidad 1
