@@ -6,6 +6,7 @@ Ejercicios y proyectos realizados durante el primer curso de la FP en Desarrollo
 
 ## Contenido
 - Unidad 1: Fundamentos de Java
+- Unidad 2: Operadores y más.
 
 ## Tecnologías
 - JDK 21.
@@ -15,3 +16,8 @@ Ejercicios y proyectos realizados durante el primer curso de la FP en Desarrollo
 
 ## Contenido
 - Unidad 1: XML y HTML.
+
+# BBDD
+
+## Contenido
+- Unidad 1: modelos E/R.
