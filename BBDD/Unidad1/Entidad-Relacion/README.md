@@ -47,7 +47,7 @@ De cada reserva es importante registrar su número de identificación, la fecha 
 
 ![Modelo ER12](ejercicio12.png)
 
-# Editorial. Obtén el diagrama E/R. 
+# 13 Editorial. Obtén el diagrama E/R. 
 - La editorial tiene varias sucursales, con su domicilio, teléfono y un código de sucursal. 
 - Cada sucursal tiene varios empleados, de los cuales tendremos sus datos personales, DNI y teléfono. Un empleado trabaja en una única sucursal.
 - En cada sucursal se publican varias revistas, de las que almacenaremos su título, número de registro, periodicidad y tipo.
@@ -55,3 +55,5 @@ De cada reserva es importante registrar su número de identificación, la fecha 
 - Para cada revista, puede tener varios fascículos (entregas). Ejemplo: La revista Egiptología puede tener los fascículos 1,2,3… De cada fascículo, tendremos su número, que será único para cada revista, pero que puede coincidir con otras revistas. También se incluirá la fecha, número de páginas y el número de ejemplares vendidos. 
 
 ![Modelo ER13](ejercicio13.jpg)
+
+
