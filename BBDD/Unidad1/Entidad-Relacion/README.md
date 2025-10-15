@@ -10,4 +10,4 @@ Además puede estar matriculado en la misma asignatura más de un curso escolar 
 Se quiere saber el curso escolar en el que cada alumno está matriculado de cada asignatura. 
 - Una asignatura es impartida por un único profesor. ● Un profesor podrá impartir varias asignaturas. 
  
-![Modelo ER](modelo ER.jpg)
+![Modelo ER](modelo-ER.jpg)
